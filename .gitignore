@@ -6,3 +6,4 @@ logs/*
 .~lock*
 processed
 Post-Processing*
+.nfs*
