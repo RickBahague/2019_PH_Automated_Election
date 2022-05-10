@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+data/*
+~*
+logs/*
+*.log
+.~lock*
+processed
+Post-Processing*

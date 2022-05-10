@@ -1,0 +1,5 @@
+1. Create your conda environment.
+2. install the required packages from conda
+3. install pyspark for aggregation. but you can create your own aggregator.
+4. install pip packages.
+5. ERs aggregated can be found here, https://github.com/RickBahague/2022ComelecERs
